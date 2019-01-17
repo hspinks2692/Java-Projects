@@ -1,4 +1,4 @@
-package cypher2;
+package Cypher;
 
 import edu.duke.*;
 import java.util.*;
